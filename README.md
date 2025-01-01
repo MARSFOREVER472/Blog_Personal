@@ -66,7 +66,7 @@
   
 ### 7. Pie de Página (Footer)
 
-Incluye información adicional.
+_Incluye información adicional._
 Elementos:
 
 Links de navegación.
