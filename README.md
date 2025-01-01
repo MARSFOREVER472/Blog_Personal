@@ -90,7 +90,7 @@
 
 **_Usa fuentes legibles y modernas._**
 
-- _Títulos: Fuentes llamativas (e.g., Montserrat, Roboto Slab)._
+- **_Títulos: Fuentes llamativas (e.g., Montserrat, Roboto Slab)._**
 - **_Texto: Fuentes simples (e.g., Open Sans, Lato)._**
 
 ### **_Imágenes y gráficos:_**
