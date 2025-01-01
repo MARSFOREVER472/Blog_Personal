@@ -22,7 +22,7 @@
 - **_Breve descripción del blog (e.g., "Explora recetas deliciosas y consejos de cocina para todos los días")._**
 - **_Botón de llamada a la acción (e.g., "Leer más" o "Ver publicaciones")._**
 
-### 3. Publicaciones Recientes
+### _3. Publicaciones Recientes_
 Muestra las últimas entradas del blog.
 Formato:
 
