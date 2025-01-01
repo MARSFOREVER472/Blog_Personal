@@ -30,7 +30,7 @@
 
 - **_Tarjetas con título._**
 - **_Imagen destacada._**
-- _Breve resumen._
+- **_Breve resumen._**
 - Enlace al post completo.
 
 Orden cronológico.
