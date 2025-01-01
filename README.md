@@ -71,7 +71,7 @@
 **_Elementos:_**
 
 - **_Links de navegación._**
-- _Redes sociales._
+- **_Redes sociales._**
 - Derechos de autor (e.g., "© 2024 Nombre del Blog").
 - Suscripción al boletín (opcional).
 
