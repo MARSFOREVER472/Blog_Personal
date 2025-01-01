@@ -51,7 +51,7 @@
 
 **_Contenido:_**
 
-- _Foto tuya o del equipo detrás del blog._
+- **_Foto tuya o del equipo detrás del blog._**
 - Breve biografía.
 - Enlace a tu historia completa.
   
