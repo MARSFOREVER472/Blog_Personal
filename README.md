@@ -6,7 +6,7 @@
 
 **_Incluye el logo, nombre del blog y un menú de navegación._**
 
-### **_Elementos clave:_**
+**_Elementos clave:_**
 
 - **_Logo o nombre del blog._**
 - **_Menú: Esto incluye Inicio, Publicaciones, Categorías, Sobre mí, Contacto._**
