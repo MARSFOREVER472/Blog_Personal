@@ -41,7 +41,7 @@
 
 **_Ejemplo de categorías:_**
 
-- "Recetas rápidas"
+- _"Recetas rápidas"_
 "Tecnología del día a día"
 "Estilo de vida saludable"
 5. Sobre Mí (o Sobre el Blog)
