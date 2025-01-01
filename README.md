@@ -20,7 +20,7 @@
 
 - **_Imagen destacada o fondo animado._**
 - **_Breve descripción del blog (e.g., "Explora recetas deliciosas y consejos de cocina para todos los días")._**
-Botón de llamada a la acción (e.g., "Leer más" o "Ver publicaciones").
+- Botón de llamada a la acción (e.g., "Leer más" o "Ver publicaciones").
 3. Publicaciones Recientes
 Muestra las últimas entradas del blog.
 Formato:
