@@ -16,7 +16,7 @@
 
 **_Un espacio visualmente impactante que presenta el blog._**
 
-_Contenido:_
+**_Contenido:_**
 
 Imagen destacada o fondo animado.
 Breve descripción del blog (e.g., "Explora recetas deliciosas y consejos de cocina para todos los días").
