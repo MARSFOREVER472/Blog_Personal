@@ -36,6 +36,7 @@
 **_Orden cronológico._**
 
 ### 4. Categorías o Temas Populares
+
 Organiza el contenido para facilitar la navegación.
 Ejemplo de categorías:
 
