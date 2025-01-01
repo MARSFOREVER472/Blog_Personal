@@ -79,7 +79,7 @@
 
 ### **_Paleta de colores:_**
 
-Elige colores coherentes con el tema del blog.
+_Elige colores coherentes con el tema del blog._
 Ejemplo:
 
 Blog de recetas: tonos cálidos como naranjas, rojos y beige.
