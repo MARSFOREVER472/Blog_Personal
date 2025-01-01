@@ -73,7 +73,7 @@
 - Links de navegación.
 - Redes sociales.
 - Derechos de autor (e.g., "© 2024 Nombre del Blog").
-Suscripción al boletín (opcional).
+- Suscripción al boletín (opcional).
 Estilo Visual
 Paleta de colores:
 Elige colores coherentes con el tema del blog.
