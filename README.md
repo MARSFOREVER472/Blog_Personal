@@ -77,7 +77,7 @@ Texto: Fuentes simples (e.g., Open Sans, Lato).
 Imágenes y gráficos:
 Usa fotografías de alta calidad y gráficos minimalistas.
 
-**_Diseño general:_**
+### **_Diseño general:_**
 
 - **_Minimalista: Espacios en blanco, líneas claras._**
 - **_Dinámico: Animaciones ligeras, interacciones al pasar el mouse._**
