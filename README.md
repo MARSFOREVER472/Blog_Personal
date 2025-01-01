@@ -23,6 +23,7 @@
 - **_Botón de llamada a la acción (e.g., "Leer más" o "Ver publicaciones")._**
 
 ### **_3. Publicaciones Recientes_**
+
 Muestra las últimas entradas del blog.
 Formato:
 
