@@ -39,7 +39,7 @@
 
 **_Organiza el contenido para facilitar la navegación._**
 
-Ejemplo de categorías:
+_Ejemplo de categorías:_
 
 "Recetas rápidas"
 "Tecnología del día a día"
