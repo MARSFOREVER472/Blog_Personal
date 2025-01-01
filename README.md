@@ -54,6 +54,7 @@
 - Foto tuya o del equipo detrás del blog.
 - Breve biografía.
 - Enlace a tu historia completa.
+  
 6. Formulario de Contacto
 Permite que los lectores se pongan en contacto contigo.
 Elementos:
