@@ -30,7 +30,7 @@
 
 - Tarjetas con título.
 - imagen destacada. 
-- breve resumen y 
+- breve resumen.
 - enlace al post completo.
 
 Orden cronológico.
