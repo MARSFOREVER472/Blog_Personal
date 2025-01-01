@@ -61,7 +61,7 @@
 
 **_Elementos:_**
 
-- Nombre, correo electrónico, mensaje.
+- _Nombre, correo electrónico, mensaje._
 - Botón "Enviar".
   
 7. Pie de Página (Footer)
