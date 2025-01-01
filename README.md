@@ -53,7 +53,7 @@
 
 - **_Foto tuya o del equipo detrás del blog._**
 - **_Breve biografía._**
-- _Enlace a tu historia completa._
+- **_Enlace a tu historia completa._**
   
 6. Formulario de Contacto
 Permite que los lectores se pongan en contacto contigo.
