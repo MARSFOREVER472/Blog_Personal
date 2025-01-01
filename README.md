@@ -57,7 +57,7 @@
   
 ### **_6. Formulario de Contacto_**
 
-_Permite que los lectores se pongan en contacto contigo._
+**_Permite que los lectores se pongan en contacto contigo._**
 
 Elementos:
 
