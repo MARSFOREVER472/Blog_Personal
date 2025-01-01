@@ -33,7 +33,7 @@
 - **_Breve resumen._**
 - **_Enlace al post completo._**
 
-Orden cronológico.
+_Orden cronológico._
 
 4. Categorías o Temas Populares
 Organiza el contenido para facilitar la navegación.
