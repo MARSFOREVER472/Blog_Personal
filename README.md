@@ -24,7 +24,7 @@
 
 ### **_3. Publicaciones Recientes_**
 
-Muestra las últimas entradas del blog.
+_Muestra las últimas entradas del blog._
 Formato:
 
 Tarjetas con título, imagen destacada, un breve resumen y enlace al post completo.
