@@ -2,7 +2,7 @@
 
 ## **_Estructura de la Página_**
 
-### 1. Encabezado (Header)
+### _1. Encabezado (Header)_
 Incluye el logo, nombre del blog y un menú de navegación.
 Elementos clave:
 
