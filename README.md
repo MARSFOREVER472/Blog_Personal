@@ -52,7 +52,7 @@
 **_Contenido:_**
 
 - **_Foto tuya o del equipo detrás del blog._**
-- Breve biografía.
+- _Breve biografía._
 - Enlace a tu historia completa.
   
 6. Formulario de Contacto
