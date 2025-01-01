@@ -55,7 +55,7 @@
 - **_Breve biografía._**
 - **_Enlace a tu historia completa._**
   
-### _6. Formulario de Contacto_
+### **_6. Formulario de Contacto_**
 Permite que los lectores se pongan en contacto contigo.
 Elementos:
 
