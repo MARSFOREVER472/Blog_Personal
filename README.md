@@ -83,8 +83,8 @@
 
 **_Ejemplo:_**
 
-Blog de recetas: tonos cálidos como naranjas, rojos y beige.
-Blog de tecnología: tonos fríos como azules, grises y blancos.
+- Blog de recetas: tonos cálidos como naranjas, rojos y beige.
+- Blog de tecnología: tonos fríos como azules, grises y blancos.
 Tipografía:
 Usa fuentes legibles y modernas.
 
