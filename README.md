@@ -1,6 +1,7 @@
 # **_Blog_Personal_**
 
 ## **_Estructura de la Página_**
+
 1. Encabezado (Header)
 Incluye el logo, nombre del blog y un menú de navegación.
 Elementos clave:
