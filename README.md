@@ -49,7 +49,7 @@
 
 **_Un espacio para presentarte como autor o explicar el propósito del blog._**
 
-Contenido:
+_Contenido:_
 
 Foto tuya o del equipo detrás del blog.
 Breve biografía.
