@@ -68,7 +68,7 @@
 
 **_Incluye información adicional._**
 
-Elementos:
+_Elementos:_
 
 Links de navegación.
 Redes sociales.
