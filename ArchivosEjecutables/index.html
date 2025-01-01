@@ -46,7 +46,7 @@
 
         .hero
         {
-            background: url('https://via.placeholder.com/1200x400') no-repeat center center/cover;
+            background: url('https://http2.mlstatic.com/D_NQ_NP_2X_651638-MLB50606367940_072022-F.webp') no-repeat center center/cover;
             height: 400px;
             color: #fff;
             display: flex;
@@ -79,7 +79,7 @@
             border: 1px solid #ddd;
             padding: 15px;
             max-width: 300px;
-            text-align: left;
+            text-align: center;
         }
 
         .post img
@@ -96,14 +96,14 @@
 
         .about img
         {
-            border-radius: 50%;
+            border-radius: 15%;
             width: 150px;
             margin-bottom: 15px;
         }
 
         footer
         {
-            background: #264653;
+            background: #f70808;
             color: #fff;
             padding: 20px;
             text-align: center;
@@ -114,6 +114,66 @@
     <header>
         <h1>Blog Personal!</h1>
     </header>
+
+    <nav>
+        <a href="#">Inicio</a>
+        <a href="#posts">Publicaciones</a>
+        <a href="#categories">Categorías</a>
+        <a href="#about">Acerca de</a>
+        <a href="#contact">Contacto</a>
+    </nav>
+
+    <div class="hero">
+        <h2>DEJARÉ MI MAREA!!!!!!!</h2>
+    </div>
+
+    <section id="posts" class="section">
+        <h2>Publicaciones recientes...</h2>
+        <div class="posts">
+            <div class="post">
+            <img src="https://http2.mlstatic.com/D_NQ_NP_780064-MLB79763825822_102024-O.webp" alt="Post Image">
+            <h3>Código de Honor</h3>
+            <p>Es un texto declarativo que busca el compromiso individual de las personas que forman parte de una comunidad, con una serie de valores y principios en las cuales sean propios.</p>
+            </div>
+            <div class="post">
+            <img src="https://http2.mlstatic.com/D_NQ_NP_834204-MLB53383761971_012023-O.webp" alt="Post Image">
+            <h3>Loren Ipsum!!</h3>
+            <p>Es el texto que se usa habitualmente en diseño gráfico en demostraciones de tipografías o de borradores de diseño para probar el diseño visual antes de insertar el texto final.</p>
+            </div>
+            <div class="post">
+            <img src="https://images.tcdn.com.br/img/img_prod/1096029/courvin_kaleidos_caio_cinza_verde_1453_1_b8f661b73fa5eef483e27e531af3de6f.jpg" alt="Post Image">
+            <h3>Hola Mundo!</h3>
+            <p>Es un programa que muestra dicho texto en un dispositivo de visualización, en la mayoría de los casos la pantalla de un monitor.</p>
+            </div>
+        </div>
+    </section>
     
+    <section id="categories" class="section">
+        <h2>Categorías</h2>
+        <p>Explora contenido por temas de interés!!!!</p>
+    </section>
+
+    <section id="about" class="section about">
+        <h2>Acerca de mí:</h2>
+        <img src="https://cdn.juegosarea.com/zu/ma/zuma-deluxe-d.jpg?width=200&height=200&aspect_ratio=1:1" alt="Foto del autor">
+        <p>Hola, soy un ALTER EGO de la LUZ! Este blog está dedicado al Lorem Ipsum. ¡Gracias por su visita!</p>
+    </section>
+
+    <section id="contact" class="section">
+        <h2>Contacto</h2>
+        <form>
+            <label for="name">Nombre:</label><br>
+            <input type="text" id="name" name="name"><br>
+            <label for="email">Correo Electrónico:</label><br>
+            <input type="email" id="email" name="email"><br>
+            <label for="message">Mensaje:</label><br>
+            <textarea id="message" name="message"></textarea><br>
+            <button type="submit">Enviar</button>
+        </form>
+    </section>
+
+    <footer>
+        <p>© 2024 Blog Personal. Todos los derechos reservados.</p>
+    </footer>
 </body>
 </html>
