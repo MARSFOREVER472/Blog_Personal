@@ -77,7 +77,7 @@
 
 ## **_Estilo Visual_**
 
-### Paleta de colores:
+### _Paleta de colores:_
 Elige colores coherentes con el tema del blog.
 Ejemplo:
 
