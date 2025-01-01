@@ -18,7 +18,7 @@
 
 **_Contenido:_**
 
-Imagen destacada o fondo animado.
+- Imagen destacada o fondo animado.
 Breve descripción del blog (e.g., "Explora recetas deliciosas y consejos de cocina para todos los días").
 Botón de llamada a la acción (e.g., "Leer más" o "Ver publicaciones").
 3. Publicaciones Recientes
