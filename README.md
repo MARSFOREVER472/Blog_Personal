@@ -47,7 +47,7 @@
   
 ### **_5. Sobre Mí (o Sobre el Blog)_**
 
-_Un espacio para presentarte como autor o explicar el propósito del blog._
+**_Un espacio para presentarte como autor o explicar el propósito del blog._**
 Contenido:
 
 Foto tuya o del equipo detrás del blog.
