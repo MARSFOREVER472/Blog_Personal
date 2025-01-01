@@ -9,7 +9,7 @@
 ### **_Elementos clave:_**
 
 - **_Logo o nombre del blog._**
-- _Menú: Esto incluye Inicio, Publicaciones, Categorías, Sobre mí, Contacto._
+- **_Menú: Esto incluye Inicio, Publicaciones, Categorías, Sobre mí, Contacto._**
 Opcional: Botones para redes sociales o barra de búsqueda.
 2. Sección de Bienvenida (Hero Section)
 Un espacio visualmente impactante que presenta el blog.
