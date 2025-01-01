@@ -75,7 +75,7 @@
 - **_Derechos de autor (e.g., "© 2024 Nombre del Blog")._**
 - **_Suscripción al boletín (opcional)._**
 
-## _Estilo Visual_
+## **_Estilo Visual_**
 Paleta de colores:
 Elige colores coherentes con el tema del blog.
 Ejemplo:
