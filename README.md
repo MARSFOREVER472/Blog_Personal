@@ -46,6 +46,7 @@
 - **_"Estilo de vida saludable"_**
   
 ### **_5. Sobre Mí (o Sobre el Blog)_**
+
 Un espacio para presentarte como autor o explicar el propósito del blog.
 Contenido:
 
