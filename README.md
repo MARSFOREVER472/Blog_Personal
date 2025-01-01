@@ -13,6 +13,7 @@
 - **_Opcional: Botones para redes sociales o barra de búsqueda._**
 
 ### **_2. Sección de Bienvenida (Hero Section)_**
+
 Un espacio visualmente impactante que presenta el blog.
 Contenido:
 
