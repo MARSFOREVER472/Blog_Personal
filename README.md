@@ -87,12 +87,14 @@
 - **_Blog de tecnología: tonos fríos como azules, grises y blancos._**
   
 ### **_Tipografía:_**
+
 Usa fuentes legibles y modernas.
 
 Títulos: Fuentes llamativas (e.g., Montserrat, Roboto Slab).
 Texto: Fuentes simples (e.g., Open Sans, Lato).
 
 ### **_Imágenes y gráficos:_**
+
 Usa fotografías de alta calidad y gráficos minimalistas.
 
 ### **_Diseño general:_**
