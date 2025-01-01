@@ -28,7 +28,8 @@
 
 **_Formato:_**
 
-Tarjetas con título, imagen destacada, un breve resumen y enlace al post completo.
+Tarjetas con título, 
+imagen destacada, un breve resumen y enlace al post completo.
 Orden cronológico.
 4. Categorías o Temas Populares
 Organiza el contenido para facilitar la navegación.
