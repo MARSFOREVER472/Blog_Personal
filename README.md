@@ -79,5 +79,5 @@ Usa fotografías de alta calidad y gráficos minimalistas.
 
 **_Diseño general:_**
 
-**_Minimalista: Espacios en blanco, líneas claras._**
+- **_Minimalista: Espacios en blanco, líneas claras._**
 Dinámico: Animaciones ligeras, interacciones al pasar el mouse.
