@@ -42,7 +42,7 @@
 **_Ejemplo de categorías:_**
 
 - **_"Recetas rápidas"_**
-- _"Tecnología del día a día"_
+- **_"Tecnología del día a día"_**
 "Estilo de vida saludable"
 5. Sobre Mí (o Sobre el Blog)
 Un espacio para presentarte como autor o explicar el propósito del blog.
