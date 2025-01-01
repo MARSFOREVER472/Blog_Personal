@@ -91,7 +91,7 @@
 **_Usa fuentes legibles y modernas._**
 
 - Títulos: Fuentes llamativas (e.g., Montserrat, Roboto Slab).
-Texto: Fuentes simples (e.g., Open Sans, Lato).
+- Texto: Fuentes simples (e.g., Open Sans, Lato).
 
 ### **_Imágenes y gráficos:_**
 
