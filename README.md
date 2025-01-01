@@ -65,6 +65,7 @@
 - **_Botón "Enviar"._**
   
 ### 7. Pie de Página (Footer)
+
 Incluye información adicional.
 Elementos:
 
