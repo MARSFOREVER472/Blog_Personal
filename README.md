@@ -76,6 +76,7 @@
 - **_Suscripción al boletín (opcional)._**
 
 ## **_Estilo Visual_**
+
 Paleta de colores:
 Elige colores coherentes con el tema del blog.
 Ejemplo:
