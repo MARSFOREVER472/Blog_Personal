@@ -5,6 +5,7 @@
 ### **_1. Encabezado (Header)_**
 
 **_Incluye el logo, nombre del blog y un menú de navegación._**
+
 Elementos clave:
 
 Logo o nombre del blog.
