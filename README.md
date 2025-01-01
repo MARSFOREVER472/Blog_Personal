@@ -12,7 +12,7 @@
 - **_Menú: Esto incluye Inicio, Publicaciones, Categorías, Sobre mí, Contacto._**
 - **_Opcional: Botones para redes sociales o barra de búsqueda._**
 
-### 2. Sección de Bienvenida (Hero Section)
+### _2. Sección de Bienvenida (Hero Section)_
 Un espacio visualmente impactante que presenta el blog.
 Contenido:
 
