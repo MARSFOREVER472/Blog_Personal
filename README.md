@@ -38,6 +38,7 @@
 ### **_4. Categorías o Temas Populares_**
 
 **_Organiza el contenido para facilitar la navegación._**
+
 Ejemplo de categorías:
 
 "Recetas rápidas"
