@@ -26,7 +26,7 @@
 
 **_Muestra las últimas entradas del blog._**
 
-Formato:
+_Formato:_
 
 Tarjetas con título, imagen destacada, un breve resumen y enlace al post completo.
 Orden cronológico.
