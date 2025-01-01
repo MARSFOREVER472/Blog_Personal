@@ -72,7 +72,7 @@
 
 - **_Links de navegación._**
 - **_Redes sociales._**
-- Derechos de autor (e.g., "© 2024 Nombre del Blog").
+- _Derechos de autor (e.g., "© 2024 Nombre del Blog")._
 - Suscripción al boletín (opcional).
 
 ## Estilo Visual
