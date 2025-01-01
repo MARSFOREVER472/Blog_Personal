@@ -73,7 +73,7 @@
 - **_Links de navegación._**
 - **_Redes sociales._**
 - **_Derechos de autor (e.g., "© 2024 Nombre del Blog")._**
-- _Suscripción al boletín (opcional)._
+- **_Suscripción al boletín (opcional)._**
 
 ## Estilo Visual
 Paleta de colores:
