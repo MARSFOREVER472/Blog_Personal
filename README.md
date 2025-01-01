@@ -29,7 +29,7 @@
 **_Formato:_**
 
 - **_Tarjetas con título._**
-- imagen destacada. 
+- Imagen destacada. 
 - breve resumen.
 - enlace al post completo.
 
