@@ -31,7 +31,7 @@
 - **_Tarjetas con título._**
 - **_Imagen destacada._**
 - **_Breve resumen._**
-- _Enlace al post completo._
+- **_Enlace al post completo._**
 
 Orden cronológico.
 4. Categorías o Temas Populares
