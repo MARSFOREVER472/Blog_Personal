@@ -88,14 +88,14 @@
   
 ### **_Tipografía:_**
 
-_Usa fuentes legibles y modernas._
+**_Usa fuentes legibles y modernas._**
 
 Títulos: Fuentes llamativas (e.g., Montserrat, Roboto Slab).
 Texto: Fuentes simples (e.g., Open Sans, Lato).
 
 ### **_Imágenes y gráficos:_**
 
-_Usa fotografías de alta calidad y gráficos minimalistas._
+**_Usa fotografías de alta calidad y gráficos minimalistas._**
 
 ### **_Diseño general:_**
 
