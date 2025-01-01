@@ -81,7 +81,7 @@
 
 **_Elige colores coherentes con el tema del blog._**
 
-_Ejemplo:_
+**_Ejemplo:_**
 
 Blog de recetas: tonos cálidos como naranjas, rojos y beige.
 Blog de tecnología: tonos fríos como azules, grises y blancos.
