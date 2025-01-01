@@ -14,7 +14,7 @@
 
 ### **_2. Sección de Bienvenida (Hero Section)_**
 
-Un espacio visualmente impactante que presenta el blog.
+_Un espacio visualmente impactante que presenta el blog._
 Contenido:
 
 Imagen destacada o fondo animado.
