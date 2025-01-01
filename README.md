@@ -59,7 +59,7 @@
 
 **_Permite que los lectores se pongan en contacto contigo._**
 
-_Elementos:_
+**_Elementos:_**
 
 Nombre, correo electrónico, mensaje.
 Botón "Enviar".
