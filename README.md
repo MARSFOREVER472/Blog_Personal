@@ -6,7 +6,7 @@
 
 **_Incluye el logo, nombre del blog y un menú de navegación._**
 
-### **_Elementos clave:_**
+**_Elementos clave:_**
 
 - **_Logo o nombre del blog._**
 - **_Menú: Esto incluye Inicio, Publicaciones, Categorías, Sobre mí, Contacto._**
@@ -22,56 +22,82 @@
 - **_Breve descripción del blog (e.g., "Explora recetas deliciosas y consejos de cocina para todos los días")._**
 - **_Botón de llamada a la acción (e.g., "Leer más" o "Ver publicaciones")._**
 
-3. Publicaciones Recientes
-Muestra las últimas entradas del blog.
-Formato:
+### **_3. Publicaciones Recientes_**
 
-Tarjetas con título, imagen destacada, un breve resumen y enlace al post completo.
-Orden cronológico.
-4. Categorías o Temas Populares
-Organiza el contenido para facilitar la navegación.
-Ejemplo de categorías:
+**_Muestra las últimas entradas del blog._**
 
-"Recetas rápidas"
-"Tecnología del día a día"
-"Estilo de vida saludable"
-5. Sobre Mí (o Sobre el Blog)
-Un espacio para presentarte como autor o explicar el propósito del blog.
-Contenido:
+**_Formato:_**
 
-Foto tuya o del equipo detrás del blog.
-Breve biografía.
-Enlace a tu historia completa.
-6. Formulario de Contacto
-Permite que los lectores se pongan en contacto contigo.
-Elementos:
+- **_Tarjetas con título._**
+- **_Imagen destacada._**
+- **_Breve resumen._**
+- **_Enlace al post completo._**
 
-Nombre, correo electrónico, mensaje.
-Botón "Enviar".
-7. Pie de Página (Footer)
-Incluye información adicional.
-Elementos:
+**_Orden cronológico._**
 
-Links de navegación.
-Redes sociales.
-Derechos de autor (e.g., "© 2024 Nombre del Blog").
-Suscripción al boletín (opcional).
-Estilo Visual
-Paleta de colores:
-Elige colores coherentes con el tema del blog.
-Ejemplo:
+### **_4. Categorías o Temas Populares_**
 
-Blog de recetas: tonos cálidos como naranjas, rojos y beige.
-Blog de tecnología: tonos fríos como azules, grises y blancos.
-Tipografía:
-Usa fuentes legibles y modernas.
+**_Organiza el contenido para facilitar la navegación._**
 
-Títulos: Fuentes llamativas (e.g., Montserrat, Roboto Slab).
-Texto: Fuentes simples (e.g., Open Sans, Lato).
-Imágenes y gráficos:
-Usa fotografías de alta calidad y gráficos minimalistas.
+**_Ejemplo de categorías:_**
 
-Diseño general:
+- **_"Recetas rápidas"_**
+- **_"Tecnología del día a día"_**
+- **_"Estilo de vida saludable"_**
+  
+### **_5. Sobre Mí (o Sobre el Blog)_**
 
-Minimalista: Espacios en blanco, líneas claras.
-Dinámico: Animaciones ligeras, interacciones al pasar el mouse.
+**_Un espacio para presentarte como autor o explicar el propósito del blog._**
+
+**_Contenido:_**
+
+- **_Foto tuya o del equipo detrás del blog._**
+- **_Breve biografía._**
+- **_Enlace a tu historia completa._**
+  
+### **_6. Formulario de Contacto_**
+
+**_Permite que los lectores se pongan en contacto contigo._**
+
+**_Elementos:_**
+
+- **_Nombre, correo electrónico, mensaje._**
+- **_Botón "Enviar"._**
+  
+### **_7. Pie de Página (Footer)_**
+
+**_Incluye información adicional._**
+
+**_Elementos:_**
+
+- **_Links de navegación._**
+- **_Redes sociales._**
+- **_Derechos de autor (e.g., "© 2024 Nombre del Blog")._**
+- **_Suscripción al boletín (opcional)._**
+
+## **_Estilo Visual_**
+
+### **_Paleta de colores:_**
+
+**_Elige colores coherentes con el tema del blog._**
+
+**_Ejemplo:_**
+
+- **_Blog de recetas: tonos cálidos como naranjas, rojos y beige._**
+- **_Blog de tecnología: tonos fríos como azules, grises y blancos._**
+  
+### **_Tipografía:_**
+
+**_Usa fuentes legibles y modernas._**
+
+- **_Títulos: Fuentes llamativas (e.g., Montserrat, Roboto Slab)._**
+- **_Texto: Fuentes simples (e.g., Open Sans, Lato)._**
+
+### **_Imágenes y gráficos:_**
+
+**_Usa fotografías de alta calidad y gráficos minimalistas._**
+
+### **_Diseño general:_**
+
+- **_Minimalista: Espacios en blanco, líneas claras._**
+- **_Dinámico: Animaciones ligeras, interacciones al pasar el mouse._**
