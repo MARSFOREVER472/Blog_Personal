@@ -9,7 +9,7 @@
 **_Elementos clave:_**
 
 - **_Logo y/o nombre del blog._**
-- **_Menú: Esto incluye Inicio, Publicaciones, Categorías, Sobre mí, Contacto._**
+- **_Menú principal: Esto incluye Inicio, Publicaciones, Categorías, Sobre mí, Contacto._**
 - **_Opcional: Botones para redes sociales o barra de búsqueda._**
 
 ### **_2. Sección de Bienvenida (Hero Section):_**
