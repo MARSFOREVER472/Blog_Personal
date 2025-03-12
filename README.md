@@ -8,7 +8,7 @@
 
 **_Elementos clave:_**
 
-- **_Logo o nombre del blog._**
+- **_Logo y/o nombre del blog._**
 - **_Menú: Esto incluye Inicio, Publicaciones, Categorías, Sobre mí, Contacto._**
 - **_Opcional: Botones para redes sociales o barra de búsqueda._**
 
