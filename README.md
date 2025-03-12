@@ -1,6 +1,6 @@
 # **_Blog_Personal_**
 
-## **_Estructura de la Página_**
+## **_Estructura completa de la Página_**
 
 ### **_1. Encabezado (Header)_**
 
